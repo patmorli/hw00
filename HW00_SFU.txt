@@ -1,0 +1,3 @@
+Surabhi and I worked on it together and have the same answer so we are uploading a single file together. 
+
+4. In the original ballode.m we would change line 93. In particular we would change dydt = [y(2); g] to dydt = [theta(2); theta(1)], where theta(2) is angular velocity and theta(1) is angle. We would also remove the event detection. 5. In the original ballode.m we would remove some lines and change line 93 to dydt = -x. Furthermore, we would also remove event detection again and change the initial conditions. 
